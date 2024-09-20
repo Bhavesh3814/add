@@ -1,0 +1,5 @@
+#include <stdio.h>
+void main(){
+int a=12345,b=67890;
+printf("The sum of the two numbers is",a+b);
+}
